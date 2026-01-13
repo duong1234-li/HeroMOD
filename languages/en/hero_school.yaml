@@ -1,40 +1,52 @@
 # =========================================================================================
-# ** TEMPLATE DIALOGUE
+# ** FIRST DIALOGUE
 # =========================================================================================
 
 message_0:
     faceset: Maincharacters_Faraway
     faceindex: 31
-    text: \n<HERO>Why everything is so dark?
+    text: \n<HERO>Everything is so dark
 
 message_1:
-    text:
+    faceset: 04_FA_HERO_BATTLE
+    faceindex: 34
+    text: \n<HERO>Fine motor skill activities over prolonged periods of time can lead to…
 
 message_2:
-    text:
+    faceset: 04_FA_HERO_BATTLE
+    faceindex: 34    
+    text: \n<HERO>I wonder how long I can finish this essay
 
 message_3:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 46
+    text: \n<HERO>oh...\! \quake[2]noooo...
 
 message_4:
-    text:
+    text: \quake[2]NOOOoooOoOoOoOoOoOo!\!
 
 message_5:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 31
+    text: \n<HERO>I should check what’s going on outside
 
 message_6:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 29
+    text: \n<HERO> ???
 
 message_7:
     text:
 
 message_8:
-    text:
+    faceset: Maincharacters_Faraway
+    faceindex: 32
+    text: \n<HERO>Not my first time seeing Mari
 
 message_9: 
     faceset: Maincharacters_Faraway
     faceindex: 31
-    text: \n<HERO>This door is also locked. Why everything is locked?
+    text: \n<HERO>This door is also locked.
 
 message_10:
     faceset: MainCharacters_Faraway

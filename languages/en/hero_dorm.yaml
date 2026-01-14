@@ -18,7 +18,9 @@ message_2:
     text: \n<HERO>I’ve lost count of how many times I’ve read each of these books this semester
 
 message_3:
-    text:
+    faceset: MainCharacter_Basil_dark
+    faceindex: 29
+    text: \n<HERO>I’m exhausted, but I can’t sleep right now
 
 message_4:
     text:

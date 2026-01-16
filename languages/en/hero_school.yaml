@@ -43,7 +43,7 @@ message_7:
 message_8:
     faceset: MainCharacter_Basil_dark
     faceindex: 30
-    text: \n<HERO>Not my first time seeing Mari
+    text: \n<HERO>Must be the wind
 
 message_9: 
     faceset: MainCharacter_Basil_dark

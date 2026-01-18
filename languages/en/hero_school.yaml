@@ -3,66 +3,66 @@
 # =========================================================================================
 
 message_0:
-    faceset: Maincharacters_Faraway
-    faceindex: 31
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 14
     text: \n<HERO>Everything is so dark
 
 message_1:
-    faceset: 04_FA_HERO_BATTLE
-    faceindex: 34
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 18
     text: \n<HERO>Fine motor skill activities over prolonged periods of time can lead to…
 
 message_2:
-    faceset: 04_FA_HERO_BATTLE
-    faceindex: 34    
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 17    
     text: \n<HERO>I wonder how long I can finish this essay
 
 message_3:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 46
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 19
     text: \n<HERO>oh...\! \quake[2]noooo...
 
 message_4:
     text: \quake[2]NOOOoooOoOoOoOoOoOo!\!
 
 message_5:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 31
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>I should check what’s going on outside
 
 message_6:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO> ???
 
 message_7:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 31
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>(It's hard to believe that she was be able to get in this college with this such a young age)
 
 message_8:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 30
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 18
     text: \n<HERO>Must be the wind
 
 message_9: 
-    faceset: MainCharacter_Basil_dark
+    faceset: 06_MainCharacter_TheRest
     faceindex: 15
     text: \n<HERO>This door is locked.
 
 message_10:
-    faceset: MainCharacter_Basil_dark
+    faceset: 06_MainCharacter_TheRest
     faceindex: 15
     text: \n<HERO>This one is locked too
 
 message_11:
-      faceset: MainCharacter_Basil_dark
+      faceset: 06_MainCharacter_TheRest
       faceindex: 15
       text: \n<HERO>There are no reason for me to get back there
       
 message_12:
-      faceset: MainCharacter_Basil_dark
-      faceindex: 28
+      faceset: 06_MainCharacter_TheRest
+      faceindex: 11
       text: \n<HERO>No problem Kim.
       
 message_13:
@@ -81,6 +81,6 @@ message_17:
       text: \n<KIM>You shouldn't get in there, it's dark.
       
 message_18:
-      faceset: MainCharacter_Basil_dark
+      faceset: 06_MainCharacter_TheRest
       faceindex: 15
       text: \n<HERO>There are no reason for me to go back there

@@ -20,7 +20,7 @@ message_2:
 message_3:
     faceset: 06_MainCharacter_TheRest
     faceindex: 13
-    text: \n<HERO>I’m exhausted, but I can’t sleep right now
+    text: \n<HERO>I’m exhausted, I should sleep right now
 
 message_4:
     faceset: 06_MainCharacter_TheRest

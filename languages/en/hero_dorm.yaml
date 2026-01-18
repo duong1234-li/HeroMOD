@@ -3,23 +3,23 @@
 # =========================================================================================
 
 message_0:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 31
+    faceset: MainCharacter_TheRest
+    faceindex: 11
     text: \n<HERO>Oh hey! I thought you were outside
 
 message_1:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 31
+    faceset: MainCharacter_TheRest
+    faceindex: 1
     text: \n<HERO>Thank goodness, here you are. I thought I’d left you at home with Kel
 
 message_2:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>I’ve lost count of how many times I’ve read each of these books this semester
 
 message_3:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>I’m exhausted, but I can’t sleep right now
 
 message_4:

@@ -3,38 +3,38 @@
 # =========================================================================================
 
 message_0:
-    faceset: MainCharacter_Basil_dark
+    faceset: 06_MainCharacter_TheRest
     faceindex: 31
     text: \n<HERO>Oh hey! I thought you were outside
 
 message_1:
-    faceset: MainCharacter_Basil_dark
+    faceset: 06_MainCharacter_TheRest
     faceindex: 31
     text: \n<HERO>Thank goodness, here you are. I thought I’d left you at home with Kel
 
 message_2:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>I’ve lost count of how many times I’ve read each of these books this semester
 
 message_3:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>I’m exhausted, but I can’t sleep right now
 
 message_4:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>Who is it???
 
 message_5:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>There is no reason for me to go outside
 
 message_6:
-    faceset: MainCharacter_Basil_dark
-    faceindex: 29
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 13
     text: \n<HERO>Soon or late I will die anyway
 
 message_7:

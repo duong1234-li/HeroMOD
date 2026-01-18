@@ -3,10 +3,14 @@
 # =========================================================================================
 
 message_0:
-    text:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 26
+    text: \n<MARI>Worried about finding a spot in all this snow?
 
 message_1:
-    text:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 26
+    text: \n<MARI>Don't worry, hotshot. I always make sure to come prepared!
 
 message_2:
     text:

@@ -1,0 +1,200 @@
+# =========================================================================================
+# Hero jumps through the photo and finds himself in a white area
+# =========================================================================================
+
+message_0:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: #HERE THE SQUARE WOO
+    text: (Ugh. So bright. Can’t see a thing.)\her 
+
+message_1:
+    text: Huh? What’s this?\her 
+
+message_2:
+    text:On a sunny day, the dazzling snow can become blinding<br>Avert your eyes and never know truth from fabrication
+
+# =========================================================================================
+# DIALOGUE 1
+# =========================================================================================
+
+message_3:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Oh, Hero! You finally came!<br>I was getting worried.\mar
+
+message_4:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 25
+    text: Have you been waiting here for me?
+
+message_5:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 32
+    text: Of course I did!<br>I wouldn’t leave after you invited me.\mar
+
+
+message_6:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 20
+    text: Right… and what are we doing here, again?
+
+message_7:
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 1
+    text: We were supposed to have a picnic!\mar
+
+message_8:
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 2
+    text: Don’t tell me you forgot…\mar
+
+
+message_9:
+    faceset: 06_MainCharacter_TheRest
+    faceindex: 2
+    text: Don’t tell me you forgot…\mar
+
+message_10:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 18
+    text: I didn’t!
+
+message_11:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 21
+    text: But why are we having a picnic in a blizzard?
+
+message_12:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: You’re the only one who knows the answer to that, dummy.
+
+message_13:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: You’re the only one who knows the answer to that, dummy.
+
+
+# =========================================================================================
+# DIALOGUE 1
+# =========================================================================================
+
+
+message_14:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 21
+    text: So, Mari… about that picnic…\her
+
+message_15:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Worried about finding a spot, hotshot?<br>Fear not! Because I made sure to bring this!\mar
+
+message_16:
+    text: You got a SHOVEL.
+
+# =========================================================================================
+# SNOWY MOUNTAIN AREA DIALOGUE !
+# =========================================================================================
+
+message_17:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Hey, Hero!<br>You come to me if you need anything, okay?\mar
+
+# DIALOGUE 2
+
+message_18:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Try digging around, maybe you’ll find a clue towards a good spot!
+
+message_19:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: If you want, you can also bring over anything you find, and we can look at it together!
+
+# DIALOGUE 3
+
+message_20:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Make sure you’re extra careful, Hero!\mar 
+
+message_21:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 2
+    text: I think I heard something moving around in the snow.\mar
+
+message_22:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 24
+    text: Shouldn’t I be the one warning you?\her
+
+message_23:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: No need to worry about me. They’re no match for me and my basket!
+
+# GENERIC DIALOGUE 4 --- PLAYER OBTAINS AN ITEM 
+
+message_24:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 30
+    text: Hm? Find something already?
+
+# Puzzle #1 — Treasure hunt (Open mountain area)
+
+message_25:
+    
+    text: There are mounds of dirt. You just dig things up with your shovel and present the final item to Mari.
+
+message_26:
+    
+    text: You dig up the little mound of snow.<br>What looked to be darkness is a pile of swarming spiders.<br>They crawl at your feet 
+
+message_27:
+    faceset: 05_MainCharacter_HeroMari
+    faceindex: 18
+    text: ...!
+
+message_28:
+    
+    text: You dig up the little mound of snow. <br> Warmth pours from the shallow grave like an oven. 
+
+message_29:
+    
+    text: You got MARI’S COOKIES! 
+
+message_30:
+    
+    text: You dig up the mound of snow. Something squelches beneath your shovel. Maybe you dug a bit too deep
+
+message_30:
+    
+    text: You got ☐☐☐
+
+message_30:
+    
+    text: You dig up the mound of snow…<br>But it turns out not to be a mound of snow at all! 
+
+
+#PLAYER FIGHTS A MOUND OF SNOW
+
+#dialogue 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -170,13 +170,6 @@ message_30:
     
     text: You dig up the mound of snow. Something squelches beneath your shovel. Maybe you dug a bit too deep
 
-message_30:
-    
-    text: You got ☐☐☐
-
-message_30:
-    
-    text: You dig up the mound of snow…<br>But it turns out not to be a mound of snow at all! 
 
 
 #PLAYER FIGHTS A MOUND OF SNOW
